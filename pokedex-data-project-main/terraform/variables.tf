@@ -1,0 +1,1 @@
+# Variables used in Terraform setup

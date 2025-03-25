@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Virtual environment
+venv/

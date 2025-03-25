@@ -1,0 +1,1 @@
+# Configuration file for Snowflake connection (e.g., credentials)
